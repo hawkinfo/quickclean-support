@@ -1,6 +1,6 @@
 # QuickClean Support
 
-Public customer support and privacy policy for QuickClean: Mac Cleaner.
+Public customer support and privacy policy for QuickClean: Storage Cleaner.
 
 - [Support](https://hawkinfo.github.io/quickclean-support/support/)
 - [Privacy policy](https://hawkinfo.github.io/quickclean-support/privacy/)
